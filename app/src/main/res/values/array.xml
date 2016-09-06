@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="building_array">
+    <item>Adams Library</item>
+    <item>Alex and Ani Hall</item>
+    <item>Alger Hall</item>
+    <item>Browne Hall</item>
+    <item>Building 1</item>
+    <item>Building 2</item>
+    <item>Building 3</item>
+    <item>Building 4</item>
+    <item>Building 5</item>
+    <item>Building 6</item>
+    <item>Building 8</item>
+    <item>Building 30</item>
+    <item>Clarke Science</item>
+    <item>Cooperative Preschool</item>
+    <item>Craig Lee Hall</item>
+    <item>Donovan Dining Center</item>
+    <item>Faculty Center</item>
+    <item>Fogarty Life Science</item>
+    <item>Forman Center</item>
+    <item>Gaige Hall</item>
+    <item>Guardo Hall</item>
+    <item>Henry Barnard School</item>
+    <item>Horace Mann Hall</item>
+    <item>Kauffman Center</item>
+    <item>Keefe Transportation Center</item>
+    <item>Murray Center</item>
+    <item>Nazarian Center</item>
+    <item>Office Building 2</item>
+    <item>Penfield Hall</item>
+    <item>Physical Plant</item>
+    <item>Recreation Center</item>
+    <item>Roberts Hall</item>
+    <item>Sherlock Center</item>
+    <item>Student Athlete Success Center</item>
+    <item>Student Union</item>
+    <item>Sweet Hall</item>
+    <item>Thorp Hall</item>
+    <item>Weber Hall</item>
+    <item>Whipple Hall</item>
+    <item>Willard Hall</item>
+    <item>Yellow Cottage</item>
+</string-array>
+
+    <!-- Elements in coordinate_array correspond exactly to elements in building_array
+    because of alphabetical ordering.-->
+    <string-array name="coordinate_array_lat">
+        <item>41.843122</item>
+        <item>41.842091</item>
+        <item>41.843034</item>
+        <item>41.840107</item>
+        <item>41.842950</item>
+        <item>41.843430</item>
+        <item>41.843726</item>
+        <item>41.844054</item>
+        <item>41.844534</item>
+        <item>41.844798</item>
+        <item>41.844947</item>
+        <item>41.842587</item>
+        <item>41.843482</item>
+        <item>41.843126</item>
+        <item>41.842986</item>
+        <item>41.842355</item>
+        <item>41.842043</item>
+        <item>41.844057</item>
+        <item>41.843480</item>
+        <item>41.842946</item>
+        <item>41.843356</item>
+        <item>41.841979</item>
+        <item>41.841340</item>
+        <item>41.842565</item>
+        <item>41.841545</item>
+        <item>41.842673</item>
+        <item>41.842656</item>
+        <item>41.842147</item>
+        <item>41.839788</item>
+        <item>41.842763</item>
+        <item>41.844340</item>
+        <item>41.842331</item>
+        <item>41.845355</item>
+        <item>41.843190</item>
+        <item>41.842387</item>
+        <item>41.840595</item>
+        <item>41.840683</item>
+        <item>41.839872</item>
+        <item>41.843104</item>
+        <item>41.839392</item>
+        <item>41.843828</item>
+    </string-array>
+    <string-array name="coordinate_array_lng">
+        <item>-71.464682</item>
+        <item>-71.462365</item>
+        <item>-71.462408</item>
+        <item>-71.466469</item>
+        <item>-71.458421</item>
+        <item>-71.458453</item>
+        <item>-71.458582</item>
+        <item>-71.458668</item>
+        <item>-71.458829</item>
+        <item>-71.459215</item>
+        <item>-71.456380</item>
+        <item>-71.468890</item>
+        <item>-71.463427</item>
+        <item>-71.459992</item>
+        <item>-71.463202</item>
+        <item>-71.464880</item>
+        <item>-71.464590</item>
+        <item>-71.464103</item>
+        <item>-71.457256</item>
+        <item>-71.465915</item>
+        <item>-71.455946</item>
+        <item>-71.463341</item>
+        <item>-71.464805</item>
+        <item>-71.456043</item>
+        <item>-71.460635</item>
+        <item>-71.466548</item>
+        <item>-71.460410</item>
+        <item>-71.468590</item>
+        <item>-71.467446</item>
+        <item>-71.468139</item>
+        <item>-71.458040</item>
+        <item>-71.461238</item>
+        <item>-71.456573</item>
+        <item>-71.467342</item>
+        <item>-71.465513</item>
+        <item>-71.466287</item>
+        <item>-71.465311</item>
+        <item>-71.465343</item>
+        <item>-71.460710</item>
+        <item>-71.466051</item>
+        <item>-71.456913</item>
+    </string-array>
+    <string-array name="department_office_number_array">
+        <item>407</item>
+        <item>234</item>
+        <item>B5</item>
+        <item>402</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>314</item>
+        <item>314</item>
+        <item>Kauffman Center</item>
+        <item>B30</item>
+        <item>143</item>
+        <item>123</item>
+        <item>123</item>
+        <item>N/A</item>
+        <item>251</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>B4</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>117</item>
+        <item>N/A</item>
+        <item>135</item>
+        <item>N/A</item>
+        <item>202</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>114</item>
+        <item>410</item>
+        <item>N/A</item>
+        <item>220</item>
+        <item>119</item>
+        <item>N/A</item>
+        <item>Craig Lee Hall</item>
+        <item>237</item>
+        <item>N/A</item>
+        <item>108</item>
+        <item>217</item>
+        <item>263</item>
+        <item>204</item>
+        <item>N/A</item>
+        <item>205</item>
+        <item>N/A</item>
+        <item>145</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>140</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>5</item>
+        <item>118</item>
+        <item>N/A</item>
+        <item>100</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>218</item>
+        <item>N/A</item>
+        <item>116</item>
+        <item>137</item>
+        <item>243</item>
+        <item> N/A</item>
+        <item>100</item>
+        <item>School of Social Work</item>
+        <item>144</item>
+        <item>119</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>228</item>
+        <item>103</item>
+        <item>219</item>
+        <item>201</item>
+        <item>401</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>305</item>
+        <item>N/A</item>
+        <item>Building 5</item>
+        <item>N/A</item>
+        <item>Murray 123</item>
+        <item>408</item>
+        <item>N/A</item>
+        <item>202</item>
+        <item>Kauffman Center</item>
+        <item>4</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>457</item>
+        <item>55</item>
+        <item>117</item>
+        <item>408</item>
+        <item>147</item>
+        <item>14</item>
+        <item>110</item>
+        <item>N/A</item>
+        <item>Roberts Hall 116</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>225</item>
+    </string-array>
+    <string-array name="department_phone_number_array">
+        <item>4014568003</item>
+        <item>4014568036</item>
+        <item>4014568001</item>
+        <item>4014568053</item>
+        <item>4014568200</item>
+        <item>4014568234</item>
+        <item>4014568218</item>
+        <item>4014568216</item>
+        <item>N/A</item>
+        <item>4014568005</item>
+        <item>4014568054</item>
+        <item>4014568007</item>
+        <item>4014568007</item>
+        <item>4014569765</item>
+        <item>4014568010</item>
+        <item>4014568554</item>
+        <item>4014568144</item>
+        <item>4014569929</item>
+        <item>4014568776</item>
+        <item>4014568130</item>
+        <item>4014568394</item>
+        <item>4014568554</item>
+        <item>4014568262</item>
+        <item>4014568031</item>
+        <item>N/A</item>
+        <item>4014564626</item>
+        <item>4014568105</item>
+        <item>4014568270</item>
+        <item>4014568887</item>
+        <item>4014568416</item>
+        <item>4014568094</item>
+        <item>4014568023</item>
+        <item>4014568125</item>
+        <item>4014569910</item>
+        <item>4014569791</item>
+        <item>4014568061</item>
+        <item>4014568207</item>
+        <item>4014562776</item>
+        <item>4014568036</item>
+        <item>4014568072</item>
+        <item>4014568039</item>
+        <item>4014568016</item>
+        <item>4014568679</item>
+        <item>4014568884</item>
+        <item>4014568262</item>
+        <item>4014569984</item>
+        <item>4014568110</item>
+        <item>4014568042</item>
+        <item>4014568033</item>
+        <item>4014568402</item>
+        <item>4014568046</item>
+        <item>4014568061</item>
+        <item>4014568055</item>
+        <item>4014568623</item>
+        <item>4014568039</item>
+        <item>4014569881</item>
+        <item>4014568216</item>
+        <item>4014568825</item>
+        <item>4014568998</item>
+        <item>N/A</item>
+        <item>4014568649</item>
+        <item>4014568262</item>
+        <item>4014568096</item>
+        <item>4014568050</item>
+        <item>4014568038</item>
+        <item>4014568029</item>
+        <item>4014569883</item>
+        <item>4014568194</item>
+        <item>4014569577</item>
+        <item>4014568864</item>
+        <item>4014568014</item>
+        <item>4014568061</item>
+        <item>4014568990</item>
+        <item>4014568695</item>
+        <item>4014569766</item>
+        <item>4014568049</item>
+        <item>4014568056</item>
+        <item>4014568496</item>
+        <item>4014568100</item>
+        <item>4014568428</item>
+        <item>4014568050</item>
+        <item>4014568015</item>
+        <item>4014568464</item>
+        <item>4014568047</item>
+        <item>4014568213</item>
+        <item>4014568007</item>
+        <item>4014568228</item>
+        <item>4014568240</item>
+        <item>4014562799</item>
+        <item>4014568105</item>
+        <item>4014568039</item>
+        <item>4014568009</item>
+        <item>4014568042</item>
+        <item>4014568201</item>
+        <item>4014568026</item>
+        <item>4014568024</item>
+        <item>4014568031</item>
+        <item>4014568034</item>
+        <item>4014568029</item>
+        <item>4014568791</item>
+        <item>4014568081</item>
+        <item>4014568803</item>
+        <item>4014568849</item>
+        <item>4014568148</item>
+        <item>4014562866</item>
+        <item>4014568141</item>
+    </string-array>
+    <string-array name="department_building_array">
+        <item>Roberts Hall</item>
+        <item>Alger Hall</item>
+        <item>Building 5</item>
+        <item>Adams Library</item>
+        <item>Roberts Hall</item>
+        <item>Forman Center</item>
+        <item>Roberts Hall</item>
+        <item>Roberts Hall</item>
+        <item>Kauffman Center</item>
+        <item>Building 30</item>
+        <item>Alex and Ani Hall</item>
+        <item>Murray Center</item>
+        <item>Craig Lee Hall</item>
+        <item>Roberts Hall</item>
+        <item>Fogarty Life Science</item>
+        <item>Student Union</item>
+        <item>Roberts Hall</item>
+        <item>Browne Hall</item>
+        <item>Roberts Hall</item>
+        <item>Building 4</item>
+        <item>Student Union</item>
+        <item>Student Union</item>
+        <item>Physical Plant</item>
+        <item>Roberts Hall</item>
+        <item>Roberts Hall</item>
+        <item>Guardo Hall</item>
+        <item>Kauffman Center</item>
+        <item>Whipple Hall</item>
+        <item>Kauffman Center</item>
+        <item>N/A</item>
+        <item>Craig Lee Hall</item>
+        <item>Adams Library</item>
+        <item>Adams Library</item>
+        <item>Physical Plant</item>
+        <item>Nazarian Center</item>
+        <item>Craig Lee Hall</item>
+        <item>Donovan Dining Center</item>
+        <item>Donovan Dining Center</item>
+        <item>Alger Hall</item>
+        <item>Sherlock Center</item>
+        <item>Building 2</item>
+        <item>Horace Mann Hall</item>
+        <item>Craig Lee Hall</item>
+        <item>Forman Center</item>
+        <item>Physical Plant</item>
+        <item>Whipple Hall</item>
+        <item>Horace Mann Hall</item>
+        <item>Guardo Hall</item>
+        <item>Building 3</item>
+        <item>Building 4</item>
+        <item>Murray Center</item>
+        <item>Craig Lee Hall</item>
+        <item>Browne Hall</item>
+        <item>Henry Barnard School</item>
+        <item>Building 2</item>
+        <item>Building 2</item>
+        <item>Roberts Hall</item>
+        <item>Roberts Hall</item>
+        <item>Roberts Hall</item>
+        <item>Donovan Dining Center</item>
+        <item>Faculty Center</item>
+        <item>Physical Plant</item>
+        <item>Alger Hall</item>
+        <item>Building 1</item>
+        <item>Building 2</item>
+        <item>Craig Lee Hall</item>
+        <item>Nazarian Center</item>
+        <item>Nazarian Center</item>
+        <item>Building 1</item>
+        <item>Guardo Hall</item>
+        <item>Fogarty Life Science</item>
+        <item>Craig Lee Hall</item>
+        <item>Building 8</item>
+        <item>Building 5</item>
+        <item>Alger Hall</item>
+        <item>Clarke Science</item>
+        <item>Craig Lee Hall</item>
+        <item>Forman Center</item>
+        <item>Roberts Hall</item>
+        <item>Roberts Hall</item>
+        <item>N/A</item>
+        <item>Horace Mann Hall</item>
+        <item>Kauffman Center</item>
+        <item>Kauffman Center</item>
+        <item>Building 4</item>
+        <item>Recreation Center</item>
+        <item>Roberts Hall</item>
+        <item>Penfield Hall</item>
+        <item>Henry Barnard School</item>
+        <item>Kauffman Center</item>
+        <item>Building 2</item>
+        <item>Alger Hall</item>
+        <item>Guardo Hall</item>
+        <item>Browne Hall</item>
+        <item>Craig Lee Hall</item>
+        <item>Horace Mann Hall</item>
+        <item>Roberts Hall</item>
+        <item>Student Union</item>
+        <item>Craig Lee Hall</item>
+        <item>Donovan Dining Center</item>
+        <item>Craig Lee Hall</item>
+        <item>Horace Mann Hall</item>
+        <item>Kauffman Center</item>
+        <item>Student Union</item>
+        <item>Donovan Dining Center</item>
+        <item>Craig Lee Hall</item>
+    </string-array>
+    <string-array name="department_head_name_array">
+        <item>Ronald Pitt</item>
+        <item>Jane Przybyla</item>
+        <item>Melissa Souza</item>
+        <item>Tovah Reis</item>
+        <item>N/A</item>
+        <item>John McLaughlin</item>
+        <item>Maggie Sullivan</item>
+        <item>Maggie Sullivan</item>
+        <item>Suzanna Alba</item>
+        <item>Mary Baker</item>
+        <item>Nancy Bockbrader</item>
+        <item>Donald Tencher</item>
+        <item>David Toms</item>
+        <item>James Montford</item>
+        <item>Lloyd Mastsumoto</item>
+        <item>Steven Platt</item>
+        <item>N/A</item>
+        <item>Amy Melo</item>
+        <item>Robert Eaton</item>
+        <item>Charlene Szczenpanek</item>
+        <item>Dennis M. Souza</item>
+        <item>Steven Platt</item>
+        <item>Kevin Fitta</item>
+        <item>Demetria Moran</item>
+        <item>N/A</item>
+        <item>Tonya Giantz</item>
+        <item>Clark Greene</item>
+        <item>EungJun Min</item>
+        <item>Laura Hart</item>
+        <item>Jeff Blais</item>
+        <item>Thomas Lavin</item>
+        <item>Andrew Snyder</item>
+        <item>N/A</item>
+        <item>Frank Engles</item>
+        <item>Angelica Vesella</item>
+        <item>Scott Kane</item>
+        <item>Arthur Patrie</item>
+        <item>Keri RossiD’entremont</item>
+        <item>Murat Aydogdu</item>
+        <item>Anthony A. Antosh</item>
+        <item>Robert Cvornyek</item>
+        <item>Patricia Cordeiro</item>
+        <item>Daniel Scott</item>
+        <item>Holly Shadoian</item>
+        <item>N/A</item>
+        <item>Bonnie MacDonald</item>
+        <item>Donald Halquist</item>
+        <item>Mary McLaughlin</item>
+        <item>Kenneth Ferus</item>
+        <item>Mary West</item>
+        <item>Robin Kirkwood Auld</item>
+        <item>Mara Berkley</item>
+        <item>Lynn Wachtel</item>
+        <item>Jeannine Magliocco</item>
+        <item>David Espinosa</item>
+        <item>Rebecca Sparks</item>
+        <item>Maggie Sullivan</item>
+        <item>Pam Christman</item>
+        <item>Christopher Hourigan</item>
+        <item>N/A</item>
+        <item>Audrey Olmsted</item>
+        <item>Gregory Gammell</item>
+        <item>Michael S. Casey</item>
+        <item>Bin Yu</item>
+        <item>Christopher Teixeira</item>
+        <item>Maricarmen Margenot</item>
+        <item>Ian Greitzer</item>
+        <item>Michael Ducharme</item>
+        <item>Henk Sonder</item>
+        <item>Michael Andrade</item>
+        <item>Jane Williams</item>
+        <item>Scott Kane</item>
+        <item>Jenifer Giroux</item>
+        <item>Kathleen Gonsalves</item>
+        <item>Glenn Rawson</item>
+        <item>Peter Meyer</item>
+        <item>Thomas Schmeling</item>
+        <item>Marie R. Fraley</item>
+        <item>Nancy Carriuolo</item>
+        <item>Jenifer Giroux</item>
+        <item>Dennis Sousa</item>
+        <item>Randi Kim</item>
+        <item>Robert Bower</item>
+        <item>Jessica Silva Cimorelli</item>
+        <item>Tamecka Hardmon</item>
+        <item>Donald Tencher</item>
+        <item>Lisa Smolski</item>
+        <item>Teresa Brown</item>
+        <item>Carol Giuriceo</item>
+        <item>Clark Greene</item>
+        <item>Quenby Hughes</item>
+        <item>Jeanne Haser</item>
+        <item>Sue Pearlmutter</item>
+        <item>Fredrick Ghio</item>
+        <item>Desiree Ciambrone</item>
+        <item>Ying HuiMichael</item>
+        <item>Demetria Moran</item>
+        <item>Kristen Salemi</item>
+        <item>Olga Juzyn</item>
+        <item>Antoinette Gomes</item>
+        <item>Mariam Boyajian</item>
+        <item>Paul Morris</item>
+        <item>Karen Rubino</item>
+        <item>Kristen Salemi</item>
+        <item>N/A</item>
+        <item>Claudine Griggs</item>
+    </string-array>
+    <string-array name="department_name_array">
+        <item>Academic Affairs</item>
+        <item>Accounting and CIS</item>
+        <item>Accounting Office</item>
+        <item>Adams Library</item>
+        <item>Administration and Finance</item>
+        <item>Admissions Office</item>
+        <item>Affirmative Action Office</item>
+        <item>Americans with Disabilities</item>
+        <item>Alumni Affairs</item>
+        <item>Anthropology</item>
+        <item>Art</item>
+        <item>Athletics</item>
+        <item>Audiovisual</item>
+        <item>Bannister Gallery</item>
+        <item>Biology</item>
+        <item>Bookstore</item>
+        <item>Box Office</item>
+        <item>Browne Hall</item>
+        <item>Budgets Office</item>
+        <item>Bursars Office</item>
+        <item>Campus Card</item>
+        <item>Campus Store</item>
+        <item>Capital Projects</item>
+        <item>Career Development Center</item>
+        <item>Center for Public Policy</item>
+        <item>Child Welfare Institute</item>
+        <item>College Advancement and External Relations</item>
+        <item>Communication</item>
+        <item>Communication and Marketing</item>
+        <item>Council of RIC</item>
+        <item>Counseling Center</item>
+        <item>Counseling of School Psychology</item>
+        <item>Curriculum Resources Center</item>
+        <item>Custodial Services</item>
+        <item>Dance</item>
+        <item>Dean of Students</item>
+        <item>Dining Services</item>
+        <item>Disability Services Center</item>
+        <item>Economics and Finance</item>
+        <item>Educational Advocate Surrogate Parent Program</item>
+        <item>Educational Studies</item>
+        <item>Elementary Education</item>
+        <item>English</item>
+        <item>Enrollment Management Unit</item>
+        <item>Facilities and Operations</item>
+        <item>Faculty Center for Teaching and Learning</item>
+        <item>Feinstein School of Education</item>
+        <item>Field Education</item>
+        <item>Financial Aid Office</item>
+        <item>Grant Accounting</item>
+        <item>Health and Physical Education</item>
+        <item>Health Promotion</item>
+        <item>Health Services</item>
+        <item>Henry Barnard School</item>
+        <item>History</item>
+        <item>Honors Program</item>
+        <item>Human Resources</item>
+        <item>Information Services</item>
+        <item>Institutional Research and Planning</item>
+        <item>Interfaith Center</item>
+        <item>International Student Services</item>
+        <item>Landscaping and Grounds</item>
+        <item>Management and Marketing</item>
+        <item>Management Information Services</item>
+        <item>Math and Computer Science</item>
+        <item>Modern Languages</item>
+        <item>Music and Theatre</item>
+        <item>Nazarian Center for the Performing Arts</item>
+        <item>Network and Telecommunications</item>
+        <item>Nonprofit Studies</item>
+        <item>Nursing</item>
+        <item>Office of Student Life</item>
+        <item>Outreach Programs</item>
+        <item>Payroll Office</item>
+        <item>Philosophy</item>
+        <item>Physical Sciences</item>
+        <item>Political Science</item>
+        <item>Portuguese and Lusophone Studies</item>
+        <item>Presidents Office</item>
+        <item>Professional Studies and Continuing Education</item>
+        <item>PSA at RIC</item>
+        <item>Psychology</item>
+        <item>Publishing Services</item>
+        <item>Purchasing Office</item>
+        <item>Records Office</item>
+        <item>Recreation Center</item>
+        <item>Research and Grants Administration</item>
+        <item>Residential Life and Housing</item>
+        <item>RI STEM Center</item>
+        <item>RIC Foundation</item>
+        <item>RICAFT</item>
+        <item>School of Management</item>
+        <item>School of Social Work</item>
+        <item>Security and Safety</item>
+        <item>Sociology</item>
+        <item>Special Education</item>
+        <item>Student Employment</item>
+        <item>Student Union</item>
+        <item>Study Abroad</item>
+        <item>Unity Center</item>
+        <item>Upward Bound</item>
+        <item>User Support Services</item>
+        <item>Web Communications</item>
+        <item>Welcome and Information Center</item>
+        <item>Womens Center</item>
+        <item>Writing Center</item>
+    </string-array>
+    </resources>

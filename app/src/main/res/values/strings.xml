@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Campus Buddy</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_gps_list">GpsListActivity</string>
+    <string name="title_activity_gps_scrolling">GpsScrollingActivity</string>
+    <string name="title_activity_gpslist">GPSListActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Location_unknown">Location Unknown</string>
+    <string name="Dept_Head_unknown">Dept Head Unknown</string>
+    <string name="Phone_number_unknown">Phone Number Unknown</string>
+    <string name="Office_location_unknown">Office Location Unknown</string>
+    <string name="department_textView">Department: </string>
+    <string name="building_textView">Building: </string>
+    <string name="head_textView">Dept. Head: </string>
+    <string name="phone_textView">Phone: </string>
+    <string name="office_textView">Office: </string>
+    <string name="google_maps_key">AIzaSyAsRlAqbW8ZTYE_OdVY4NIWqnvpT9-D-V4</string>
+    <string name="gps_button">GPS Button</string>
+    <string name="viewDepartment"> Department Information</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

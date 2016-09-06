@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="12dp"
+    android:paddingEnd="10dp"
+    android:paddingTop="60dp"
+    android:paddingBottom="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/department_textView"
+        android:id="@+id/deptName"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/building_textView"
+        android:id="@+id/buildingText"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/headText"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/head_textView"
+        android:id="@+id/headText"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/phoneText"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/phone_textView"
+        android:id="@+id/phoneText"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/officeText"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/office_textView"
+        android:id="@+id/officeText"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/deptName"
+        android:layout_alignParentLeft="true" />
+
+ <!--   <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:src="@drawable/gps"
+        android:background="@null"
+        android:scaleType="centerInside"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:contentDescription="@string/gps_button" /> -->
+    <Button
+        android:id="@+id/gpsButton2"
+
+        android:text="GPS"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/button_shape"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="10"
+        android:layout_marginBottom="10dp"
+        android:elegantTextHeight="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/phoneButton"
+
+        android:text="Call"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/button_shape"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="10"
+
+        android:elegantTextHeight="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/noNumberText"
+
+        android:textSize="55sp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="#900229"
+        android:textColor="#60011b"
+        android:shadowColor="#ffffff"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+
+        android:layout_marginTop="65dp"
+        android:layout_below="@+id/buildingText"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+
