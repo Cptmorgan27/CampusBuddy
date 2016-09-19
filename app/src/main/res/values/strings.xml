@@ -14,7 +14,6 @@
     <string name="head_textView">Dept. Head: </string>
     <string name="phone_textView">Phone: </string>
     <string name="office_textView">Office: </string>
-    <string name="google_maps_key">AIzaSyAsRlAqbW8ZTYE_OdVY4NIWqnvpT9-D-V4</string>
     <string name="gps_button">GPS Button</string>
     <string name="viewDepartment"> Department Information</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
